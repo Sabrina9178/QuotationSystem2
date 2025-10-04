@@ -3,9 +3,31 @@ A WPF-based desktop quotation system designed to minimize manual errors and impr
 
 Built with .NET Core, Entity Framework Core, and MS SQL Server, the application follows Clean Architecture with an MVVM pattern, incorporating layered design principles and localization support for multi-language use.
 
-
 ## Features
-- **Role-based access**: Separate permissions for administrators and standard users.
+- **Role-based access**: Separate permissions for administrators and standard users (employees).
+  <p align="center" >
+  <table>
+    <tr>
+      <td>
+        <figure>
+          <img src="Resources/TempGIF.gif" width="400">
+          <br>
+          <figcaption align="center">Caption 1234</figcaption>
+        </figure>
+      </td>
+      <td>
+        <figure>
+          <img src="Resources/TempGIF.gif" width="400">
+          <br>
+          <figcaption align="center">Caption 2</figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
 - **Quotation management**: Create and manage product quotations with detailed records.
 - **Quotation history**: View and edit past quotation records for reference and tracking.
 - **Price table management** (in progress): Administrators can update product options and pricing.
