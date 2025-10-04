@@ -3,6 +3,7 @@ A WPF-based desktop quotation system designed to minimize manual errors and impr
 
 Built with .NET Core, Entity Framework Core, and MS SQL Server, the application follows Clean Architecture with an MVVM pattern, incorporating layered design principles and localization support for multi-language use.
 
+
 ## Features
 - **Role-based access**: Separate permissions for administrators and standard users.
 - **Quotation management**: Create and manage product quotations with detailed records.
@@ -28,6 +29,12 @@ Built with .NET Core, Entity Framework Core, and MS SQL Server, the application 
   - Dynamic content stored in database
 - **Abstraction**: Interfaces and services to enforce architectural boundaries
 - **Database**: Normalized relational schema with ER diagram
+<p align="center">
+  <img src="Resources/ERdiagram.png"
+       alt="ER Diagram"
+       width="600"
+       style="border: 3px solid #E7E9EB; border-radius: 5px; padding: 5px;">
+</p>
 
 ## Getting Started
 ### Prerequisites
