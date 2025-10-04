@@ -32,7 +32,7 @@ Built with .NET Core, Entity Framework Core, and MS SQL Server, the application 
 <p align="center">
   <img src="Resources/ERdiagram.png"
        alt="ER Diagram"
-       width="600"
+       width="1000"
        style="border: 3px solid #E7E9EB; border-radius: 5px; padding: 5px;">
 </p>
 
