@@ -5,26 +5,47 @@ Built with .NET Core, Entity Framework Core, and MS SQL Server, the application 
 
 ## Features
 - **Role-based access**: Separate permissions for administrators and standard users (employees).
+  <p align="left">
+  <img src="Resources/Login.gif" 
+      width="800">
+  </p>
   <p align="center" >
-  <table>
-    <tr>
-      <td>
-        <figure>
-          <img src="Resources/TempGIF.gif" width="400">
-          <br>
-          <figcaption align="center">Caption 1234</figcaption>
-        </figure>
-      </td>
-      <td>
-        <figure>
-          <img src="Resources/TempGIF.gif" width="400">
-          <br>
-          <figcaption align="center">Caption 2</figcaption>
-        </figure>
-      </td>
-    </tr>
-  </table>
-</p>
+    <table>
+      <tr>
+        <td>
+          <figure>
+            <img src="Resources/AccountManagement_Admin.jpg" width="500">
+            <br>
+            <figcaption align="center">Admin has access to edit, create, and delete user.</figcaption>
+          </figure>
+        </td>
+        <td>
+          <figure>
+            <img src="Resources/AccountManagement_User.jpg" width="500">
+            <br>
+            <figcaption align="center">User has no access.</figcaption>
+          </figure>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <figure>
+            <img src="Resources/Quotation_Admin.jpg" width="500">
+            <br>
+            <figcaption align="center">Admin has access to edit, delete, and export records.</figcaption>
+          </figure>
+        </td>
+        <td>
+          <figure>
+            <img src="Resources/Quotation_User.jpg" width="500">
+            <br>
+            <figcaption align="center">User can only export records.</figcaption>
+          </figure>
+        </td>
+      </tr>
+    </table>
+  </p>
+  
 
 
 
@@ -54,8 +75,7 @@ Built with .NET Core, Entity Framework Core, and MS SQL Server, the application 
 <p align="center">
   <img src="Resources/ERdiagram.png"
        alt="ER Diagram"
-       width="1000"
-       style="border: 3px solid #E7E9EB; border-radius: 5px; padding: 5px;">
+       width="1000">
 </p>
 
 ## Getting Started
