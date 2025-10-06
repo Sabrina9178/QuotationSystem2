@@ -46,8 +46,11 @@ Built with .NET Core, Entity Framework Core, and MS SQL Server, the application 
     </table>
   </p>
   
-
 - **Quotation operation**: Generate quotations by entering input values. Combobox options and prices update dynamically based on selected products and previous choices.
+  <p align="left">
+  <img src="Resources/QuotationOperation_speedx2.gif" 
+      width="800">
+  </p>
 - **Quotation history**: View, edit, delete, or export past quotation records. Editing and deletion are restricted to administrators.
 - **Price table management** (in progress): Allows administrators to update product options and pricing.
 - **Localization support**: Provides a multilingual interface, currently supporting English (EN-US) and Traditional Chinese (ZH-TW).
