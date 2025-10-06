@@ -47,12 +47,10 @@ Built with .NET Core, Entity Framework Core, and MS SQL Server, the application 
   </p>
   
 
-
-
-- **Quotation management**: Create and manage product quotations with detailed records.
-- **Quotation history**: View and edit past quotation records for reference and tracking.
-- **Price table management** (in progress): Administrators can update product options and pricing.
-- **Localization support**: Multi-language interface for broader accessibility.
+- **Quotation operation**: Generate quotations by entering input values. Combobox options and prices update dynamically based on selected products and previous choices.
+- **Quotation history**: View, edit, delete, or export past quotation records. Editing and deletion are restricted to administrators.
+- **Price table management** (in progress): Allows administrators to update product options and pricing.
+- **Localization support**: Provides a multilingual interface, currently supporting English (EN-US) and Traditional Chinese (ZH-TW).
 
 ## Technical Stack
 - **Frameworks & UI**: .NET Core WPF with XAML
