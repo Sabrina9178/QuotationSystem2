@@ -52,8 +52,14 @@ Built with .NET Core, Entity Framework Core, and MS SQL Server, the application 
       width="800">
   </p>
 - **Quotation history**: View, edit, delete, or export past quotation records. Editing and deletion are restricted to administrators.
+  <p align="left">
+  <img src="Resources/QuotationDeleteAndExport_speedx1.8.gif" 
+      width="800">
+  </p>
+    
 - **Price table management** (in progress): Allows administrators to update product options and pricing.
 - **Localization support**: Provides a multilingual interface, currently supporting English (EN-US) and Traditional Chinese (ZH-TW).
+  
 
 ## Technical Stack
 - **Frameworks & UI**: .NET Core WPF with XAML
